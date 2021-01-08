@@ -19,6 +19,13 @@ Rails.application.routes.draw do
     resources :products, :categories, except: [:edit, :update, :show]
   end
 
+  get '/login' => 'sessions#new'
+  post '/login' => 'sessions#create'
+  get '/logout' => 'sessions#destroy'
+
+  get '/signup' => 'user#new'
+  post '/user' => 'user#create'
+
   # namespace :admin do
   #   get '/admin/categories' to: 'admin#'
   #   # (app/controllers/admin/products_controller.rb)
