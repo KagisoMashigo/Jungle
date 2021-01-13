@@ -42,7 +42,6 @@ Jungle is not suitable for real-world production use and is only for demonstrati
 ./bin              Meta data
 ./config           Various configurations including environment variables
 ./db               db schema, migration and seeds
-./lib              Axios mocks
 ./log              Keeps logs
 ./public           Public assests and icons
 ./spec             RSpec Test Suite
