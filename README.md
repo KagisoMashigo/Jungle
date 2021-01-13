@@ -4,15 +4,23 @@ A mini e-commerce application built with Rails 4.2. It is a responsive MPA using
 
 Technologies used include Ruby on Rails, SASS, Postgres server-side, RSpec and Capybara for development and testing.
 
-Interview Scheduler is not suitable for real-world production use and is only for demonstration and educational purposes.
+Jungle is not suitable for real-world production use and is only for demonstration and educational purposes.
 
 ## Final Product Screenshots
 
-!["Screenshot of homepage"](https://github.com/KagisoMashigo/scheduler/blob/master/docs/Screenshot%20from%202020-12-16%2019-00-18.png?raw=true)
+!["Screenshot of homepage"](https://github.com/KagisoMashigo/Jungle/blob/master/app/assets/images/Screenshot%20from%202021-01-13%2014-23-02.png?raw=true)
 
-!["Screenshot of new appointment"](https://github.com/KagisoMashigo/scheduler/blob/master/docs/Screenshot%20from%202020-12-16%2019-00-46.png?raw=true)
+!["Screenshot of new appointment"](https://github.com/KagisoMashigo/Jungle/blob/master/app/assets/images/Screenshot%20from%202021-01-13%2014-23-14.png?raw=true)
 
-!["Screenshot of deleting appointment"](https://github.com/KagisoMashigo/scheduler/blob/master/docs/Screenshot%20from%202020-12-16%2019-01-04.png?raw=true)
+!["Screenshot of deleting appointment"](https://github.com/KagisoMashigo/Jungle/blob/master/app/assets/images/Screenshot%20from%202021-01-13%2014-23-30.png?raw=true)
+
+!["Screenshot of deleting appointment"](https://github.com/KagisoMashigo/Jungle/blob/master/app/assets/images/Screenshot%20from%202021-01-13%2014-23-41.png?raw=true)
+
+!["Screenshot of deleting appointment"](https://github.com/KagisoMashigo/Jungle/blob/master/app/assets/images/Screenshot%20from%202021-01-13%2014-24-13.png?raw=true)
+
+!["Screenshot of deleting appointment"](https://github.com/KagisoMashigo/Jungle/blob/master/app/assets/images/Screenshot%20from%202021-01-13%2014-24-25.png?raw=true)
+
+!["Screenshot of deleting appointment"](https://github.com/KagisoMashigo/Jungle/blob/master/app/assets/images/Screenshot%20from%202021-01-13%2014-24-40.png?raw=true)
 
 # Development:
 
